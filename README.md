@@ -65,9 +65,4 @@ npm run preview → Vista previa del build
 El proyecto está preparado para desplegarse fácilmente en Vercel conectando el repositorio y configurando las variables de entorno necesarias (si aplica).
 
 🤝 Contribuciones
-Las contribuciones son bienvenidas.
-Haz un fork, crea una rama y envía tu Pull Request.
-
-📄 Licencia
-Proyecto de código abierto.
-Agrega una licencia si aplica (MIT, Apache, etc.).
+Malcom Sandoval, Silvio Bolaño, Kleverson Escudero, Adanis Coronado
